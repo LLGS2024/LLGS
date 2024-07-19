@@ -6,7 +6,8 @@ This section presents the ablation experimental results of our absorption modula
 ![fig1](https://github.com/LLGS2024/LLGS/blob/main/fig/fig1.png)
 The experimental results depicted in Figure 1 illustrate that, in the absence of our absorption model, the updating process of the absorption coefficient fails to effectively capture the color and structural information of the scene. This leads to the rendered images exhibiting dark shadows and a hazy appearance, which significantly compromises the integrity of the image structure and hinders the accurate acquisition of detailed scene information. Conversely, our absorption model, which is formulated based on the Lambert-Beer law, thoroughly considers the color information and scene structure, playing a vital role in the rendering outcome.
 # Detailed Architecture of the MLP
-
+In this section, we provide a detailed structural diagram of the Absorption MLP to facilitate a better understanding of the training process of our model for the readers.
+![fig2](https://github.com/LLGS2024/LLGS/blob/main/fig/MLP.png)
 # Real-world Low Light Scene Testing
+We present a demonstration of the training effects on some real-world dark scenes.
 
-Description of section 2.
