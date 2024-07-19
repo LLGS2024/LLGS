@@ -16,7 +16,8 @@ In this section, we provide a detailed structural diagram of the Absorption MLP 
 We present a demonstration of the training effects on some real-world dark scenes.
 
 
+![Video1](gif/output2.gif)
 ![Video1](gif/output3.gif)
 ![Video1](gif/output1.gif)
-![Video1](gif/output2.gif)
+
 
