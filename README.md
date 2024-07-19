@@ -8,6 +8,7 @@ The experimental results depicted in Figure 1 illustrate that, in the absence of
 # Detailed Architecture of the MLP
 In this section, we provide a detailed structural diagram of the Absorption MLP to facilitate a better understanding of the training process of our model for the readers.
 ![fig2](https://github.com/LLGS2024/LLGS/blob/main/fig/MLP.png)
-# Real-world Low Light Scene Testing
+# Real-world Low Light Scene
 We present a demonstration of the training effects on some real-world dark scenes.
+[![Video1]](video/output.mp4)
 
