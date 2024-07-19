@@ -10,5 +10,5 @@ In this section, we provide a detailed structural diagram of the Absorption MLP 
 ![fig2](https://github.com/LLGS2024/LLGS/blob/main/fig/MLP.png)
 # Real-world Low Light Scene
 We present a demonstration of the training effects on some real-world dark scenes.
-![Video1](https://github.com/LLGS2024/LLGS/blob/main/video/output.mp4)
+[![Video1](https://github.com/LLGS2024/LLGS/blob/main/fig/MLP.png)](https://github.com/LLGS2024/LLGS/blob/main/video/output.mp4)
 
